@@ -9,9 +9,6 @@ span {
 .link {
     text-shadow: 2px 2px 4px red;
 }
-.post-title {
-    text-align: center;
-}
 body {
     font-family: "Pochaevsk", serif;
     font-weight: 400;
